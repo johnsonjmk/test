@@ -7,15 +7,8 @@ package samplegitproj;
 
 /**
  *
- * @author Johnson Joseph from
+ * @author Johnson
  */
-public class SampleGitProj {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class SampleGit2Proj {
     
 }
