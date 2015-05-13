@@ -7,7 +7,7 @@ package samplegitproj;
 
 /**
  *
- * @author Johnson
+ * @author Johnson Johnson
  */
 public class SampleGit2Proj {
     
